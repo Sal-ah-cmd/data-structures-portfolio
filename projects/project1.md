@@ -39,6 +39,6 @@ Rosston, G. L., & Wallsten, S. J. (2020). Increasing low-income broadband adopti
 Silva, S., Badasyan, N., & Busby, M. (2018). Diversity and digital divide: Using the National Broadband Map to identify the non-adopters of broadband. *Telecommunications Policy, 42*(5), 361–373. https://doi.org/10.1016/j.telpol.2018.02.008
 
 ### Code
-[View project code](../files/project1_data.ipynb)
+[View project code](https://github.com/Sal-ah-cmd/data-structures-portfolio/blob/main/files/project1_data.ipynb)
 
 
