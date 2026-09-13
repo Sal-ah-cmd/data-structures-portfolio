@@ -15,7 +15,8 @@ df[target_cols] = df[target_cols].apply(pd.to_numeric, errors="coerce")
 df = df.dropna(subset=target_cols)
 The code converts the selected variables to numeric values, removing rows with missing data.
 ### Visualizations
-![Median Household Income and Broadband Access](/images/output1.png)
+![Scatterplot](../images/output1.png)
+![Histogram](../images/output2.png)
 
 The project includes a scatterplot examining the relationship between median household income and broadband subscription rates, as well as a histogram showing the distribution of broadband subscription rates across North Carolina counties.
 
