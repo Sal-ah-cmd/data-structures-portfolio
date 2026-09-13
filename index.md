@@ -13,4 +13,4 @@ https://www.linkedin.com/in/salaheddine-e-907a24246/
 - [Blog](blog.md)
 - [Projects](projects.md)
 - 
-<iframe src="resume.pdf" width="100%" height="600px"></iframe>
+<iframe src="files/resume.pdf" width="100%" height="600px"></iframe>
