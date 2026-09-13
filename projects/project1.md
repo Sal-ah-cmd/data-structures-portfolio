@@ -2,6 +2,9 @@
 --- 
 ### Research Question
 How is median household income associated with broadband subscription rates across North Carolina counties?
+
+I chose this question because access to reliable internet has become important for things like school, work, healthcare, and everyday communication. At the same time, not every community has the same level of broadband subscription. I wanted to see if household income is related to these differences across North Carolina counties. This could be useful for understanding the digital divide and for people who make decisions about broadband resources and programs. The results can show whether counties with higher incomes tend to have higher broadband subscription rates, although they cannot explain why those differences exist.
+
 ### Dataset
 The dataset comes from the U.S. Census Bureau’s 2024 American Community Survey (ACS) 5-Year Estimates through the Census API and contains county-level data for North Carolina, with each row representing a county and including median household income, broadband subscription rates, and computer ownership percentages. Dataset size : 100 counties with no missing values found. 
 
