@@ -18,15 +18,16 @@ The code converts the selected variables to numeric values, removing rows with m
 ![Scatterplot](../images/output1.png)
 The scatterplot shows that counties with higher median household incomes generally have higher broadband subscription rates.
 ![Histogram](../images/output2.png)
+The histogram shows how broadband subscription rates are distributed across North Carolina counties, including where most counties fall and how much the rates vary.
 
 ### Limitations
 
 The data are at the county level, so they do not show differences between individual households. Other factors may also affect broadband subscription rates. The analysis shows an association between income and broadband subscription rates but does not show causation.
 
-The histogram shows how broadband subscription rates are distributed across North Carolina counties, including where most counties fall and how much the rates vary.
 ### Source
 U.S. Census Bureau — 2024 American Community Survey (ACS) 5-Year Estimates.
 
 ### Code
+[View project code](../project1_data.ipynb)
 AI was used for debugging and grammar/presentation.
 
