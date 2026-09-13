@@ -1,5 +1,5 @@
 ## Project 1
-
+--- 
 ### Research Question
 How is median household income associated with broadband subscription rates across North Carolina counties?
 ### Dataset
@@ -26,6 +26,8 @@ The histogram shows how broadband subscription rates are distributed across Nort
 
 The data are at the county level, so they do not show differences between individual households. Other factors may also affect broadband subscription rates. The analysis shows an association between income and broadband subscription rates but does not show causation.
 
+
+### Summery
 
 ### Key Academic References
 Agarwal, A., Canfield, C., & Khan, M. N. (2024). Analysis of rural broadband adoption dynamics: A theory-driven agent-based model. *PLOS ONE, 19*(6), e0302146. https://doi.org/10.1371/journal.pone.0302146
