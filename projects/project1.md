@@ -10,13 +10,12 @@ The dataset comes from the U.S. Census Bureau’s 2024 American Community Survey
 
 ### Data Cleaning and Preparation
 
-I used pandas to prepare the data for analysis.
-
-```python
 target_cols = ["Median_Household_Income", "Pct_Broadband", "Pct_Computer"]
 df[target_cols] = df[target_cols].apply(pd.to_numeric, errors="coerce")
 df = df.dropna(subset=target_cols)
+The code converts the selected variables to numeric values, removing rows with missing data.
 ### Visualizations
+![Median Household Income and Broadband Access](/images/output1.png)
 
 The project includes a scatterplot examining the relationship between median household income and broadband subscription rates, as well as a histogram showing the distribution of broadband subscription rates across North Carolina counties.
 
