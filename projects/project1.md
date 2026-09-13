@@ -17,9 +17,9 @@ df[target_cols] = df[target_cols].apply(pd.to_numeric, errors="coerce")
 df = df.dropna(subset=target_cols)
 The code converts the selected variables to numeric values, removing rows with missing data.
 ### Visualizations
-![Scatterplot](../images/output1.png)
+![Scatterplot](../images/outputn1.png)
 The scatterplot shows that counties with higher median household incomes generally have higher broadband subscription rates.
-![Histogram](../images/output2.png)
+![Histogram](../images/outputn2.png)
 The histogram shows how broadband subscription rates are distributed across North Carolina counties, including where most counties fall and how much the rates vary.
 
 ### Limitations
@@ -37,6 +37,6 @@ Silva, S., Badasyan, N., & Busby, M. (2018). Diversity and digital divide: Using
 
 
 ### Code
-[View project code](../project1_data.ipynb)
+[View project code](../files/project1_data.ipynb)
 
 
