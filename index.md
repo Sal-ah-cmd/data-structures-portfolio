@@ -12,5 +12,7 @@ https://www.linkedin.com/in/salaheddine-e-907a24246/
 ## Portfolio
 - [Blog](blog.md)
 - [Projects](projects.md)
-- 
+
+## Resume
+
 <iframe src="files/resume.pdf" width="100%" height="600px"></iframe>
