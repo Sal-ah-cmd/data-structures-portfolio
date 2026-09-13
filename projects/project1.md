@@ -26,17 +26,14 @@ The histogram shows how broadband subscription rates are distributed across Nort
 
 The data are at the county level, so they do not show differences between individual households. Other factors may also affect broadband subscription rates. The analysis shows an association between income and broadband subscription rates but does not show causation.
 
+--- 
 
 ### Summery
 
 ### Key Academic References
 Agarwal, A., Canfield, C., & Khan, M. N. (2024). Analysis of rural broadband adoption dynamics: A theory-driven agent-based model. *PLOS ONE, 19*(6), e0302146. https://doi.org/10.1371/journal.pone.0302146
-
 Rosston, G. L., & Wallsten, S. J. (2020). Increasing low-income broadband adoption through private incentives. *Telecommunications Policy, 44*(9), 102020. https://doi.org/10.1016/j.telpol.2020.102020
-
 Silva, S., Badasyan, N., & Busby, M. (2018). Diversity and digital divide: Using the National Broadband Map to identify the non-adopters of broadband. *Telecommunications Policy, 42*(5), 361–373. https://doi.org/10.1016/j.telpol.2018.02.008
-
-
 
 ### Code
 [View project code](../files/project1_data.ipynb)
