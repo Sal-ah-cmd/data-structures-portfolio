@@ -8,6 +8,7 @@ The dataset comes from the U.S. Census Bureau’s 2024 American Community Survey
 - **Median Household Income:** The income (in dollars) for each North Carolina county.
 - **Broadband Subscription Rate:** The percentage of households in each county with a broadband internet subscription.
 - **Unit of Analysis:** North Carolina counties.
+ 
 ### Data Cleaning and Preparation
 
 target_cols = ["Median_Household_Income", "Pct_Broadband", "Pct_Computer"]
@@ -26,14 +27,16 @@ The data are at the county level, so they do not show differences between indivi
 
 
 ### Key Academic References
-
-Dailey, D., Bryne, A., Powell, A., Karaganis, J., & Chung, J. (2010). *Broadband adoption in low-income communities*. Social Science Research Council.
-
 Agarwal, A., Canfield, C., & Khan, M. N. (2024). Analysis of rural broadband adoption dynamics: A theory-driven agent-based model. *PLOS ONE, 19*(6), e0302146. https://doi.org/10.1371/journal.pone.0302146
+
+Rosston, G. L., & Wallsten, S. J. (2020). Increasing low-income broadband adoption through private incentives. *Telecommunications Policy, 44*(9), 102020. https://doi.org/10.1016/j.telpol.2020.102020
+
+Silva, S., Badasyan, N., & Busby, M. (2018). Diversity and digital divide: Using the National Broadband Map to identify the non-adopters of broadband. *Telecommunications Policy, 42*(5), 361–373. https://doi.org/10.1016/j.telpol.2018.02.008
+
 ### Source
 U.S. Census Bureau — 2024 American Community Survey (ACS) 5-Year Estimates.
 
 ### Code
 [View project code](../project1_data.ipynb)
-AI was used for debugging and grammar/presentation.
+
 
