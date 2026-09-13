@@ -3,7 +3,7 @@
 ### Research Question
 How is median household income associated with broadband subscription rates across North Carolina counties?
 ### Dataset
-The dataset comes from the U.S. Census Bureau’s 2024 American Community Survey (ACS) 5-Year Estimates through the Census API and contains county-level data for North Carolina, with each row representing a county and including median household income, broadband subscription rates, and computer ownership percentages.
+The dataset comes from the U.S. Census Bureau’s 2024 American Community Survey (ACS) 5-Year Estimates through the Census API and contains county-level data for North Carolina, with each row representing a county and including median household income, broadband subscription rates, and computer ownership percentages. Dataset size : 100 counties with no missing values found. 
 ### Variables 
 - **Median Household Income:** The income (in dollars) for each North Carolina county.
 - **Broadband Subscription Rate:** The percentage of households in each county with a broadband internet subscription.
@@ -27,6 +27,6 @@ The histogram shows how broadband subscription rates are distributed across Nort
 ### Source
 U.S. Census Bureau — 2024 American Community Survey (ACS) 5-Year Estimates.
 
-### Code and AI Transparency
+### Code
 AI was used for debugging and grammar/presentation.
 
