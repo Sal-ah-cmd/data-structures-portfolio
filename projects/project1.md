@@ -26,8 +26,8 @@ The scatterplot shows that counties with higher median household incomes general
 The histogram shows how broadband subscription rates are distributed across North Carolina counties, including where most counties fall and how much the rates vary.
 
 ### Limitations
+The data are at the county level, so they do not show differences between individual households. Other factors may also affect broadband subscription rates.
 
-The data are at the county level, so they do not show differences between individual households. Other factors, such as location, education, broadband availability, and service costs, may also affect broadband subscription rates.
 --- 
 
 ### Summary
