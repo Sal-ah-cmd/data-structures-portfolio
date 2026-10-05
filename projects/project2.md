@@ -21,9 +21,9 @@ df = df.dropna(subset=target_cols)
 The code converts the selected variables to numeric values, removing rows with missing data.
 
 ### Visualizations
-![Scatterplot](../images/outputn1.png)
+![Scatterplot](../images/p2output2.png)
 The scatterplot shows that counties with higher median household incomes generally have higher median gross rents.
-![Histogram](../images/outputn2.png)
+![Histogram](../images/p2output1.png)
 The histogram shows how median gross rents are distributed across North Carolina counties, including where most counties fall and how much the rents vary.
 
 ### Limitations
